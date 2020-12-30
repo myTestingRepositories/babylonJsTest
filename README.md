@@ -1,2 +1,2 @@
 # babylonJsTest
-Test repository just for know how BabylonJs works
+Test repository just just for know how BabylonJs works
